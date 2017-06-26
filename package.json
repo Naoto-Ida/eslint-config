@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-naotoida",
   "version": "1.0.0",
   "description": "Eslint rules for myself.",
   "main": "index.js",
